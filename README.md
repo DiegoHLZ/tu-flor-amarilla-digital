@@ -11,7 +11,7 @@ Abre la página publicada en GitHub Pages y pulsa **“Abrir el jardín con mús
 - Jardín, tallos, hojas y flores dibujados en código.
 - Animación adaptable a computadoras y celulares.
 - Revelación final en pantalla grande.
-- Música controlable por el visitante.
+- Fragmento musical de 30 segundos desde 1:26, controlable por el visitante.
 - Compatibilidad con la preferencia de movimiento reducido.
 
-La música se reproduce desde el visualizer oficial de “MAREA” de Mora alojado en YouTube.
+La experiencia utiliza un fragmento proporcionado por el propietario del repositorio.
